@@ -1,0 +1,4 @@
+C:\Users\Simor\source\repos\CCFTagging\D365\obj\Debug\D365.pcfprojAssemblyReference.cache
+C:\Users\Simor\source\repos\CCFTagging\D365\obj\Debug\D365.pcfproj.CoreCompileInputs.cache
+C:\Users\rsimor\Source\Repos\CCFTagging\D365\obj\Debug\D365.pcfprojAssemblyReference.cache
+C:\Users\rsimor\Source\Repos\CCFTagging\D365\obj\Debug\D365.pcfproj.CoreCompileInputs.cache

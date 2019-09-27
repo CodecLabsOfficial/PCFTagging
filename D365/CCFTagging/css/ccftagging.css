@@ -1,0 +1,7 @@
+.bootstrap-tagsinput .badge {
+    padding: 3px 8px 5px 8px;
+}
+
+.bootstrap-tagsinput .badge [data-role="remove"]::after {
+    padding: 0px 5px 2px 5px;
+}

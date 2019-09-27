@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="CodecLabs" constructor="CCFTagging" version="0.4.4" display-name-key="CodecLabs.CCFTagging" description-key="Tagging for D365" control-type="standard">
+    <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
+    <property name="Tags" display-name-key="CodecLabs_TagProperty" description-key="Input for tags" of-type="SingleLine.Text" usage="bound" required="true" />
+    <type-group name="text">
+      <type>SingleLine.Text</type>
+    </type-group>
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/bootstrap.min.css" order="2" />
+      <css path="css/bootstrap-tagsinput.css" order="3" />
+      <css path="css/ccftagging.css" order="4" />
+      <css path="css/jquery-ui.css" order="5" />
+      <!--<css path="css/bootstrap-tagsinput-typeahead.css" order="5" />-->
+      <!--<resx path="strings/CCFTagging.1033.resx" version="1.0.0" />-->
+    </resources>
+  </control>
+</manifest>

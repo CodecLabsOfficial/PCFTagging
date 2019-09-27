@@ -1,0 +1,43 @@
+{
+  "_args": [
+    [
+      "bootstrap4-tagsinput-douglasanpa@4.1.2",
+      "C:\\Users\\rsimor\\Source\\Repos\\CCFTagging\\D365"
+    ]
+  ],
+  "_from": "bootstrap4-tagsinput-douglasanpa@4.1.2",
+  "_id": "bootstrap4-tagsinput-douglasanpa@4.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-bJL6Sz3+uIHlzB2lzDqONAG3N6ZZJjrr1PJVmivdW54+dAiNgVraPLWGmuzDQ1DcPjVCmjg2rYedZCH7qr7JNA==",
+  "_location": "/bootstrap4-tagsinput-douglasanpa",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "bootstrap4-tagsinput-douglasanpa@4.1.2",
+    "name": "bootstrap4-tagsinput-douglasanpa",
+    "escapedName": "bootstrap4-tagsinput-douglasanpa",
+    "rawSpec": "4.1.2",
+    "saveSpec": null,
+    "fetchSpec": "4.1.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/bootstrap4-tagsinput-douglasanpa/-/bootstrap4-tagsinput-douglasanpa-4.1.2.tgz",
+  "_spec": "4.1.2",
+  "_where": "C:\\Users\\rsimor\\Source\\Repos\\CCFTagging\\D365",
+  "bugs": {
+    "url": "https://github.com/douglasanpa/bootstrap4-tagsinput/issues"
+  },
+  "description": "jQuery tags input plugin based on Twitter Bootstrap 4",
+  "homepage": "https://github.com/douglasanpa/bootstrap4-tagsinput",
+  "license": "MIT",
+  "name": "bootstrap4-tagsinput-douglasanpa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasanpa/bootstrap4-tagsinput.git"
+  },
+  "title": "Bootstrap 4 Tagsinput",
+  "version": "4.1.2"
+}

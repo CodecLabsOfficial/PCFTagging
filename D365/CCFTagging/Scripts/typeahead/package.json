@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      "typeahead@0.2.2",
+      "C:\\Users\\Simor\\source\\repos\\CCFTagging\\D365"
+    ]
+  ],
+  "_from": "typeahead@0.2.2",
+  "_id": "typeahead@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha1-FADg8oLOZ9M5j8NKYu1eGCTFkps=",
+  "_location": "/typeahead",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "typeahead@0.2.2",
+    "name": "typeahead",
+    "escapedName": "typeahead",
+    "rawSpec": "0.2.2",
+    "saveSpec": null,
+    "fetchSpec": "0.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/typeahead/-/typeahead-0.2.2.tgz",
+  "_spec": "0.2.2",
+  "_where": "C:\\Users\\Simor\\source\\repos\\CCFTagging\\D365",
+  "author": {
+    "name": "Roman Shtylman",
+    "email": "shtylman@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/shtylman/typeahead/issues"
+  },
+  "dependencies": {
+    "dom": "0.0.2",
+    "xtend": "1.0.3"
+  },
+  "description": "typeahead component",
+  "homepage": "https://github.com/shtylman/typeahead#readme",
+  "main": "typeahead.js",
+  "name": "typeahead",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shtylman/typeahead.git"
+  },
+  "style": "./style.css",
+  "version": "0.2.2"
+}

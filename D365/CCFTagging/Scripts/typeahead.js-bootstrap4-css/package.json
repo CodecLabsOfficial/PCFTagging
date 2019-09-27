@@ -1,0 +1,54 @@
+{
+  "_from": "typeahead.js-bootstrap4-css",
+  "_id": "typeahead.js-bootstrap4-css@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-xL1ufsUeSrbdR8a/1qSDqoXW22Y=",
+  "_location": "/typeahead.js-bootstrap4-css",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "typeahead.js-bootstrap4-css",
+    "name": "typeahead.js-bootstrap4-css",
+    "escapedName": "typeahead.js-bootstrap4-css",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/typeahead.js-bootstrap4-css/-/typeahead.js-bootstrap4-css-1.0.0.tgz",
+  "_shasum": "c4bd6e7ec51e4ab6dd47c6bfd6a483aa85d6db66",
+  "_spec": "typeahead.js-bootstrap4-css",
+  "_where": "C:\\Users\\Simor\\source\\repos\\CCFTagging\\D365\\Release",
+  "author": {
+    "name": "Bass Jobsen"
+  },
+  "bugs": {
+    "url": "https://github.com/bassjobsen/typeahead.js-bootstrap4-css/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Bootstrap4 style for typeahead.js using Bootstrap 4 mixins and variables",
+  "homepage": "https://github.com/bassjobsen/typeahead.js-bootstrap4-css/",
+  "keywords": [
+    "sass",
+    "scss",
+    "bootstrap",
+    "typeahead.js"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "name": "typeahead.js-bootstrap4-css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassjobsen/typeahead.js-bootstrap4-css.git"
+  },
+  "version": "1.0.0"
+}
